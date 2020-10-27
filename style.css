@@ -1,0 +1,159 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#springCanvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  background-image: url(Images/spring.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+#summerCanvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  background-image: url(Images/summer.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#fallCanvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  background-image: url(Images/fall.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#winterCanvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  background-image: url(Images/winter.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+
+h1 {
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 120px;
+	line-height: 100px;
+	white-space: nowrap;
+	border-top: 1px solid black;
+}
+
+img {
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+
+
+footer{
+    background-color: #414e57;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.home_b {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #DAA520;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin-right: 200px;
+}
+
+
+.spring_b {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #3CB371;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin-right: 20px;
+}
+
+.summer_b {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #E9967A;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin-right: 20px;
+}
+
+.fall_b {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #8B4513;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin-right: 20px;
+}
+
+.winter_b {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #4682B4;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin-right: 20px;
+}
+
+#seasons
+{
+    width: 100%;
+    text-align: center;
+}
+
+.buttons
+{
+    display: inline-block;
+}
