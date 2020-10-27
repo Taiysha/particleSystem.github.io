@@ -9,13 +9,12 @@ Different examples of simple particle systems using JavaScript and HTML canvas.
 ## Getting Started
 
 ### Dependencies
-
-* Make sure all HTML, CSS, and JS files are downloaded. Also download the Images folder.
+* Go to URL - https://taiysha.github.io/particleSystem.github.io/
+* Download: Make sure all HTML, CSS, and JS files are downloaded. Also download the Images folder.
 
 ### Installing
-
-* Simply download all files and open index.html and enjoy!
-
+* Go to URL: https://taiysha.github.io/particleSystem.github.io/
+* Or Simply download all files and open index.html and enjoy!
 
 
 ## Authors
