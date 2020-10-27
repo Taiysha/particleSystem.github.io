@@ -6,16 +6,11 @@ Seasons JavaScript Particle System
 
 Different examples of simple particle systems using JavaScript and HTML canvas.
 
-## Getting Started
+## Usage
+Project site: https://taiysha.github.io/particleSystem.github.io/
 
-### Dependencies
-* Go to URL - https://taiysha.github.io/particleSystem.github.io/
-* Download sourcecode: https://github.com/Taiysha/particleSystem.github.io - Make sure all HTML, CSS, and JS files are downloaded. Also download the Images folder.
-
-### Running/Testing:
-* Go to URL to view example: https://taiysha.github.io/particleSystem.github.io/
-* Go to github repository to view source files:  https://github.com/Taiysha/particleSystem.github.io
-
+### Different Seasonal Particle Systems
+Select different seasons and the JavaScript particle system should appear for that selection. 
 
 ## Authors
 
