@@ -6,6 +6,7 @@ Different examples of simple particle systems using JavaScript and HTML canvas. 
 
 ## Setup
 Project Demo site: https://taiysha.github.io/particleSystem.github.io/
+
 Download Project Files from GitHub Repository: https://github.com/Taiysha/particleSystem.github.io
 
 ## Inspiration
