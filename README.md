@@ -1,13 +1,7 @@
 # Project Name
 Four seasons of JavaScript Particles
 
-## Table of contents
-* [General info](#general-info)
-* [Setup](#setup)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
-##General info
+## General info
 Different examples of simple particle systems using JavaScript and HTML canvas. Each season has its own particle system. Which season is your favorite?
 
 ## Setup
